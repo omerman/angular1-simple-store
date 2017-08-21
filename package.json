@@ -1,0 +1,19 @@
+{
+  "name": "angular1-simple-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omerman/angular1-simple-store.git"
+  },
+  "author": "Omer Prizner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omerman/angular1-simple-store/issues"
+  },
+  "homepage": "https://github.com/omerman/angular1-simple-store#readme"
+}
