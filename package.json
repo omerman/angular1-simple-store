@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/omerman/angular1-simple-store/issues"
   },
-  "homepage": "https://github.com/omerman/angular1-simple-store#readme"
+  "homepage": "https://github.com/omerman/angular1-simple-store#readme",
+  "dependencies": {
+    "angular": "^1.5.11"
+  }
 }
